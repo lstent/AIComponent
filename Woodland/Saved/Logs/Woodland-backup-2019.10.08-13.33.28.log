@@ -1,0 +1,801 @@
+﻿Log file open, 10/08/19 14:26:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Woodland
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.396483
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/Unreal/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Engine.ini]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Engine.ini]
+[2019.10.08-13.26.30:493][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Engine.ini]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Engine.ini]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.08-13.26.30:493][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.08-13.26.30:494][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.08-13.26.30:494][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.08-13.26.30:494][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.08-13.26.30:494][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.08-13.26.30:494][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.08-13.26.30:494][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.08-13.26.30:494][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.08-13.26.30:494][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.08-13.26.30:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Engine.ini]
+[2019.10.08-13.26.30:494][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Engine.ini]
+[2019.10.08-13.26.30:497][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.08-13.26.30:497][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.08-13.26.30:498][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.08-13.26.30:498][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.08-13.26.30:498][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.08-13.26.30:507][  0]LogHAL: Display: Platform has ~ 16 GB [16942845952 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.08-13.26.30:507][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.08-13.26.30:507][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.08-13.26.30:507][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:507][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.08-13.26.30:507][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.08-13.26.30:507][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:507][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.08-13.26.30:507][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.08-13.26.30:508][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.08-13.26.30:509][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.08-13.26.30:509][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.08-13.26.30:509][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/LucyAIComponent/Woodland/Saved/Config/Windows/Engine.ini]
+[2019.10.08-13.26.30:509][  0]LogInit: Computer: TGADS-62221
+[2019.10.08-13.26.30:509][  0]LogInit: User: ls183797
+[2019.10.08-13.26.30:509][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.08-13.26.30:509][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.08-13.26.30:509][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.10.08-13.26.30:509][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.08-13.26.30:509][  0]LogMemory: Process Physical Memory: 97.93 MB used, 97.93 MB peak
+[2019.10.08-13.26.30:509][  0]LogMemory: Process Virtual Memory: 90.19 MB used, 90.19 MB peak
+[2019.10.08-13.26.30:509][  0]LogMemory: Physical Memory: 9399.61 MB used,  6758.34 MB free, 16157.96 MB total
+[2019.10.08-13.26.30:509][  0]LogMemory: Virtual Memory: 4674.84 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.10.08-13.26.30:524][  0]LogInit: Using OS detected language (en-US).
+[2019.10.08-13.26.30:524][  0]LogInit: Using OS detected locale (en-GB).
+[2019.10.08-13.26.30:525][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.08-13.26.30:655][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.08-13.26.30:690][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.08-13.26.30:691][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.08-13.26.30:924][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.08-13.26.30:925][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.08-13.26.30:983][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.10.08-13.26.30:983][  0]LogD3D11RHI:       8010/0/8078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.08-13.26.30:993][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.08-13.26.30:993][  0]LogD3D11RHI:       128/0/8078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.08-13.26.30:994][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.08-13.26.30:994][  0]LogD3D11RHI:       0/0/8078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.08-13.26.30:994][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.08-13.26.31:000][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.08-13.26.31:000][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.08-13.26.31:000][  0]LogWindows: EnumDisplayDevices:
+[2019.10.08-13.26.31:001][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.10.08-13.26.31:001][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.10.08-13.26.31:001][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.08-13.26.31:001][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.08-13.26.31:001][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.08-13.26.31:001][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.08-13.26.31:002][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.08-13.26.31:002][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.08-13.26.31:002][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.10.08-13.26.31:002][  0]LogD3D11RHI:   Driver Version: 419.72 (internal:25.21.14.1972, unified:419.72)
+[2019.10.08-13.26.31:002][  0]LogD3D11RHI:      Driver Date: 3-18-2019
+[2019.10.08-13.26.31:002][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.10.08-13.26.31:034][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.08-13.26.31:037][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.08-13.26.31:037][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.08-13.26.31:037][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.08-13.26.31:045][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.08-13.26.31:373][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.08-13.26.31:383][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.08-13.26.31:394][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.08-13.26.31:404][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.08-13.26.31:415][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.08-13.26.31:426][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.08-13.26.31:437][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.08-13.26.31:447][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.08-13.26.31:452][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.08-13.26.31:515][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.08-13.26.31:517][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.08-13.26.31:559][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.08-13.26.31:559][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.08-13.26.31:577][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.08-13.26.31:577][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.08-13.26.31:586][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.08-13.26.31:596][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.08-13.26.31:605][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.08-13.26.31:614][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.08-13.26.31:648][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.08-13.26.31:648][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.08-13.26.31:648][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.08-13.26.31:657][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.08-13.26.31:700][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (D:/LucyAIComponent/Woodland/Intermediate/Shaders/WorkingDirectory/12064/).
+[2019.10.08-13.26.31:701][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ls183797/AppData/Local/Temp/UnrealShaderWorkingDir/90B9F5A44BB3603C6E55D4BC5B4BF683/'.
+[2019.10.08-13.26.31:714][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.10.08-13.26.32:163][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.08-13.26.32:209][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/ls183797/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.08-13.26.32:209][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ls183797/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.08-13.26.32:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/LucyAIComponent/Woodland/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.08-13.26.32:209][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.08-13.26.32:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/LucyAIComponent/Woodland/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.08-13.26.32:209][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.08-13.26.32:219][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.08-13.26.32:219][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.08-13.26.32:219][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.08-13.26.32:231][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ls183797/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.08-13.26.32:231][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.08-13.26.32:231][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.08-13.26.32:248][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.08-13.26.32:249][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.08-13.26.32:249][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.08-13.26.32:336][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2019.10.08-13.26.32:586][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.08-13.26.32:700][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.08-13.26.32:700][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.08-13.26.32:700][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.08-13.26.32:700][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.08-13.26.32:700][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.08-13.26.32:710][  0]LogNetVersion: Woodland 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3781569295)
+[2019.10.08-13.26.33:068][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.030178 seconds
+[2019.10.08-13.26.33:073][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.08-13.26.33:073][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.08-13.26.33:073][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.08-13.26.33:878][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.08-13.26.33:899][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.08-13.26.34:003][  0]SourceControl: Source control is disabled
+[2019.10.08-13.26.34:003][  0]SourceControl: Source control is disabled
+[2019.10.08-13.26.34:004][  0]SourceControl: Source control is disabled
+[2019.10.08-13.26.34:005][  0]SourceControl: Source control is disabled
+[2019.10.08-13.26.34:066][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.08-13.26.34:128][  0]LogOcInput: OculusInput pre-init called
+[2019.10.08-13.26.34:873][  0]LogEngine: Initializing Engine...
+[2019.10.08-13.26.34:874][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.08-13.26.34:875][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.08-13.26.35:055][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.08-13.26.35:067][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.08-13.26.35:133][  0]LogInit: XAudio2 using 'Speakers (Synaptics HD Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.08-13.26.35:143][  0]LogInit: FAudioDevice initialized.
+[2019.10.08-13.26.35:143][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.08-13.26.35:188][  0]LogDerivedDataCache: Saved boot cache 0.05s 73MB C:/Users/ls183797/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.08-13.26.35:198][  0]LogInit: Texture streaming: Enabled
+[2019.10.08-13.26.35:213][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.08-13.26.35:238][  0]LogInit: Transaction tracking system initialized
+[2019.10.08-13.26.35:257][  0]BlueprintLog: New page: Editor Load
+[2019.10.08-13.26.35:365][  0]LocalizationService: Localization service is disabled
+[2019.10.08-13.26.35:637][  0]LogFileCache: Scanning file cache for directory 'D:/LucyAIComponent/Woodland/Content/' took 0.01s
+[2019.10.08-13.26.35:637][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.08-13.26.35:637][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.08-13.26.35:815][  0]SourceControl: Source control is disabled
+[2019.10.08-13.26.35:815][  0]Cmd: MAP LOAD FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-13.26.35:816][  0]LightingResults: New page: Lighting Build
+[2019.10.08-13.26.35:818][  0]MapCheck: New page: Map Check
+[2019.10.08-13.26.35:818][  0]LightingResults: New page: Lighting Build
+[2019.10.08-13.26.35:841][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.08-13.26.36:043][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2019.10.08-13.26.36:043][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2019.10.08-13.26.37:275][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2019.10.08-13.26.37:275][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.08-13.26.37:299][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-13.26.37:335][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.08-13.26.37:335][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-13.26.37:335][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2019.10.08-13.26.37:335][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.519
+[2019.10.08-13.26.37:500][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-13.26.37:524][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-13.26.37:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-13.26.37:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-13.26.37:591][  0]LogCollectionManager: Loaded 0 collections in 0.001291 seconds
+[2019.10.08-13.26.37:656][  0]LogFileCache: Scanning file cache for directory 'D:/LucyAIComponent/Woodland/Saved/Collections/' took 0.01s
+[2019.10.08-13.26.37:656][  0]LogFileCache: Scanning file cache for directory 'D:/LucyAIComponent/Woodland/Content/Developers/ls183797/Collections/' took 0.01s
+[2019.10.08-13.26.37:656][  0]LogFileCache: Scanning file cache for directory 'D:/LucyAIComponent/Woodland/Content/Collections/' took 0.01s
+[2019.10.08-13.26.37:656][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.08-13.26.37:665][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2732 classes and 659 folders.
+[2019.10.08-13.26.37:674][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.08-13.26.37:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.08-13.26.37:735][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.08-13.26.37:748][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.08-13.26.37:810][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.08-13.26.37:812][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.08-13.26.37:822][  0]LogSlate: Took 0.005170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.08-13.26.37:918][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.08-13.26.38:074][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.08-13.26.38:090][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.10.08-13.26.38:118][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.08-13.26.38:118][  0]LogLoad: (Engine Initialization) Total time: 10.04 seconds
+[2019.10.08-13.26.38:120][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.08-13.26.38:150][  0]LogAssetRegistry: Asset discovery search completed in 5.8362 seconds
+[2019.10.08-13.26.38:151][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.08-13.26.38:152][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.10.08-13.26.38:154][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.08-13.26.38:172][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.08-13.26.46:231][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.26.55:641][ 60]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.08-13.26.55:649][ 60]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Woodland.Woodland
+[2019.10.08-13.26.55:676][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.10.08-13.26.57:507][ 60]LogSlate: Window 'Save Content' being destroyed
+[2019.10.08-13.26.57:513][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Woodland" FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Woodland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.08-13.26.57:536][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.08-13.26.57:552][ 60]LogSavePackage: Moving 'D:/LucyAIComponent/Woodland/Saved/Woodland5E5186614B28E34E3AACF29B00704DD9.tmp' to 'D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Woodland.umap'
+[2019.10.08-13.26.57:556][ 60]LogFileHelpers: Saving map 'Woodland' took 0.044
+[2019.10.08-13.26.57:558][ 60]Cmd: MAP LOAD FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Woodland.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-13.26.57:558][ 60]LightingResults: New page: Lighting Build
+[2019.10.08-13.26.57:559][ 60]LoadErrors: New page: Loading map: Woodland.umap
+[2019.10.08-13.26.57:560][ 60]MapCheck: New page: Map Check
+[2019.10.08-13.26.57:560][ 60]LightingResults: New page: Lighting Build
+[2019.10.08-13.26.57:586][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.08-13.26.57:587][ 60]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-13.26.57:587][ 60]LogAIModule: Creating AISystem for world Woodland
+[2019.10.08-13.26.57:609][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.10.08-13.26.57:623][ 60]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-13.26.57:623][ 60]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2019.10.08-13.26.57:624][ 60]LogFileHelpers: Loading map 'Woodland' took 0.067
+[2019.10.08-13.27.07:742][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.27.07:907][270]LogEditor: Attempting to add actor of class 'ARSkyLight' to level at 580.00,-570.00,50.00
+[2019.10.08-13.27.10:772][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.27.13:248][906]Cmd: DELETE
+[2019.10.08-13.27.13:248][906]Cmd: ACTOR DELETE
+[2019.10.08-13.27.13:255][906]LogEditorActor: Deleted Actor: SkyLight
+[2019.10.08-13.27.13:278][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.10.08-13.27.13:279][906]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.10.08-13.27.25:670][393]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.10.08-13.27.26:045][435]Cmd: DELETE
+[2019.10.08-13.27.26:046][435]Cmd: ACTOR DELETE
+[2019.10.08-13.27.26:046][435]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.10.08-13.27.26:070][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.08-13.27.26:071][435]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.08-13.27.27:351][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.27.28:400][711]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.08-13.27.28:414][711]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.10.08-13.27.28:438][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.08-13.27.29:668][711]LogSlate: Window 'Save Content' being destroyed
+[2019.10.08-13.27.29:673][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Woodland" FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Woodland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.08-13.27.29:695][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.10.08-13.27.29:768][711]LogSavePackage: Moving 'D:/LucyAIComponent/Woodland/Saved/Woodland65ECBCDB42F130AF077E3AA47EC5F322.tmp' to 'D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Woodland.umap'
+[2019.10.08-13.27.29:784][711]LogFileHelpers: Saving map 'Woodland' took 0.110
+[2019.10.08-13.27.29:784][711]Cmd: MAP LOAD FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-13.27.29:784][711]LightingResults: New page: Lighting Build
+[2019.10.08-13.27.29:785][711]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2019.10.08-13.27.29:785][711]MapCheck: New page: Map Check
+[2019.10.08-13.27.29:785][711]LightingResults: New page: Lighting Build
+[2019.10.08-13.27.29:810][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.08-13.27.29:814][711]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-13.27.29:836][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.10.08-13.27.29:846][711]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-13.27.29:846][711]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2019.10.08-13.27.29:846][711]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.063
+[2019.10.08-13.27.29:867][711]LogAIModule: Creating AISystem for world Woodland
+[2019.10.08-13.27.40:171][941]Cmd: EDIT COPY
+[2019.10.08-13.27.42:411][209]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Woodland.Woodland
+[2019.10.08-13.27.42:432][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.10.08-13.27.42:433][209]Cmd: MAP LOAD FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Woodland.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-13.27.42:433][209]LightingResults: New page: Lighting Build
+[2019.10.08-13.27.42:433][209]LoadErrors: New page: Loading map: Woodland.umap
+[2019.10.08-13.27.42:434][209]MapCheck: New page: Map Check
+[2019.10.08-13.27.42:434][209]LightingResults: New page: Lighting Build
+[2019.10.08-13.27.42:459][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.08-13.27.42:460][209]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-13.27.42:481][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.08-13.27.42:494][209]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-13.27.42:494][209]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.056ms to complete.
+[2019.10.08-13.27.42:495][209]LogFileHelpers: Loading map 'Woodland' took 0.062
+[2019.10.08-13.27.45:948][621]Cmd: EDIT PASTE
+[2019.10.08-13.28.04:379][830]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.08-13.28.04:391][830]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.10.08-13.28.04:412][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.10.08-13.28.04:413][830]Cmd: MAP LOAD FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-13.28.04:413][830]LightingResults: New page: Lighting Build
+[2019.10.08-13.28.04:414][830]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2019.10.08-13.28.04:414][830]MapCheck: New page: Map Check
+[2019.10.08-13.28.04:414][830]LightingResults: New page: Lighting Build
+[2019.10.08-13.28.04:439][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.10.08-13.28.04:443][830]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-13.28.04:466][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.08-13.28.04:477][830]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-13.28.04:477][830]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.057ms to complete.
+[2019.10.08-13.28.04:477][830]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.064
+[2019.10.08-13.28.11:088][615]Cmd: EDIT COPY
+[2019.10.08-13.28.13:230][870]LogAIModule: Creating AISystem for world Woodland
+[2019.10.08-13.28.13:231][870]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Woodland.Woodland
+[2019.10.08-13.28.13:253][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.10.08-13.28.13:254][870]Cmd: MAP LOAD FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Woodland.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-13.28.13:254][870]LightingResults: New page: Lighting Build
+[2019.10.08-13.28.13:254][870]LoadErrors: New page: Loading map: Woodland.umap
+[2019.10.08-13.28.13:255][870]MapCheck: New page: Map Check
+[2019.10.08-13.28.13:255][870]LightingResults: New page: Lighting Build
+[2019.10.08-13.28.13:280][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.08-13.28.13:281][870]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-13.28.13:304][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.08-13.28.13:314][870]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-13.28.13:314][870]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.057ms to complete.
+[2019.10.08-13.28.13:314][870]LogFileHelpers: Loading map 'Woodland' took 0.061
+[2019.10.08-13.28.16:541][255]LogEditorViewport: Clicking Background
+[2019.10.08-13.28.17:141][327]Cmd: EDIT PASTE
+[2019.10.08-13.28.28:513][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.28.28:821][717]LogSlate: Took 0.004533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.08-13.28.35:101][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.28.36:118][589]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.08-13.28.36:129][589]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.10.08-13.28.36:152][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.10.08-13.28.37:749][589]LogSlate: Window 'Save Content' being destroyed
+[2019.10.08-13.28.37:755][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Woodland" FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Woodland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.08-13.28.37:778][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.10.08-13.28.37:848][589]LogSavePackage: Moving 'D:/LucyAIComponent/Woodland/Saved/Woodland27EB9BDF4EC691AABF70BFBE069AA54D.tmp' to 'D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Woodland.umap'
+[2019.10.08-13.28.37:859][589]LogFileHelpers: Saving map 'Woodland' took 0.104
+[2019.10.08-13.28.37:860][589]Cmd: MAP LOAD FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-13.28.37:860][589]LightingResults: New page: Lighting Build
+[2019.10.08-13.28.37:860][589]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2019.10.08-13.28.37:861][589]MapCheck: New page: Map Check
+[2019.10.08-13.28.37:861][589]LightingResults: New page: Lighting Build
+[2019.10.08-13.28.37:884][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.08-13.28.37:889][589]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-13.28.37:913][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.08-13.28.37:924][589]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-13.28.37:924][589]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
+[2019.10.08-13.28.37:924][589]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.065
+[2019.10.08-13.28.37:946][589]LogAIModule: Creating AISystem for world Woodland
+[2019.10.08-13.28.46:075][560]Cmd: EDIT COPY
+[2019.10.08-13.28.49:494][968]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.10.08-13.28.49:516][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.10.08-13.28.49:516][968]Cmd: MAP LOAD FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-13.28.49:516][968]LightingResults: New page: Lighting Build
+[2019.10.08-13.28.49:517][968]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2019.10.08-13.28.49:518][968]MapCheck: New page: Map Check
+[2019.10.08-13.28.49:518][968]LightingResults: New page: Lighting Build
+[2019.10.08-13.28.49:542][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.08-13.28.49:566][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.08-13.28.49:589][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.10.08-13.28.49:605][968]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.08-13.28.49:615][968]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-13.28.49:639][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.08-13.28.49:651][968]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-13.28.49:651][968]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2019.10.08-13.28.49:651][968]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.136
+[2019.10.08-13.28.52:170][265]LogAIModule: Creating AISystem for world Woodland
+[2019.10.08-13.28.52:171][265]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Woodland.Woodland
+[2019.10.08-13.28.52:192][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.10.08-13.28.52:193][265]Cmd: MAP LOAD FILE="D:/LucyAIComponent/Woodland/Content/FirstPersonBP/Woodland.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-13.28.52:193][265]LightingResults: New page: Lighting Build
+[2019.10.08-13.28.52:194][265]LoadErrors: New page: Loading map: Woodland.umap
+[2019.10.08-13.28.52:194][265]MapCheck: New page: Map Check
+[2019.10.08-13.28.52:194][265]LightingResults: New page: Lighting Build
+[2019.10.08-13.28.52:217][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.10.08-13.28.52:218][265]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-13.28.52:239][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.08-13.28.52:250][265]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-13.28.52:250][265]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.055ms to complete.
+[2019.10.08-13.28.52:250][265]LogFileHelpers: Loading map 'Woodland' took 0.058
+[2019.10.08-13.28.53:221][378]LogEditorViewport: Clicking Background
+[2019.10.08-13.28.53:714][437]Cmd: EDIT PASTE
+[2019.10.08-13.28.59:157][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.28.59:789][162]Cmd: DELETE
+[2019.10.08-13.28.59:789][162]Cmd: ACTOR DELETE
+[2019.10.08-13.28.59:790][162]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2019.10.08-13.28.59:816][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.10.08-13.28.59:816][162]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.10.08-13.29.00:465][239]Cmd: DELETE
+[2019.10.08-13.29.00:465][239]Cmd: ACTOR DELETE
+[2019.10.08-13.29.00:466][239]LogEditorActor: Deleted Actor: SkyLight
+[2019.10.08-13.29.00:488][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.10.08-13.29.00:489][239]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.10.08-13.29.01:205][320]Cmd: DELETE
+[2019.10.08-13.29.01:205][320]Cmd: ACTOR DELETE
+[2019.10.08-13.29.01:206][320]LogEditorActor: Deleted Actor: PostProcessVolume
+[2019.10.08-13.29.01:230][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.10.08-13.29.01:230][320]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.08-13.29.05:069][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.32.29:428][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.32.34:956][840]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2019.10.08-13.32.34:979][840]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.10.08-13.32.35:003][840]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.10.08-13.32.35:026][840]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.10.08-13.32.35:052][840]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.10.08-13.32.35:091][840]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.08-13.32.35:103][840]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.08-13.32.35:117][840]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.08-13.32.35:132][840]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.08-13.32.35:150][840]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.10.08-13.32.35:166][840]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.08-13.32.35:183][840]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.10.08-13.32.35:199][840]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.10.08-13.32.38:707][255]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2019.10.08-13.32.59:750][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.33.00:794][881]LogActorFactory: Actor Factory created Cube
+[2019.10.08-13.33.01:844][  6]LogActorFactory: Actor Factory created Cube
+[2019.10.08-13.33.03:755][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.33.03:832][226]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2019.10.08-13.33.05:001][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.10.08-13.33.05:649][441]Cmd: EDIT COPY
+[2019.10.08-13.33.05:908][472]Cmd: EDIT PASTE
+[2019.10.08-13.33.07:963][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.10.08-13.33.09:789][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.10.08-13.33.10:765][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.33.12:824][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.33.19:965][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.33.20:058][145]LogTexture: Display: Building textures: Texture2D_5 (G8, 128X128)
+[2019.10.08-13.33.23:690][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.08-13.33.28:682][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-13.33.28:799][182]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.10.08-13.33.28:804][182]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
